@@ -1,5 +1,13 @@
-# project_datawarehousing
-a model for youtube data exploration
-this is an user friendly application model which can help user to explore the data in youtube in an effective manner.
-it can also ensure the users required data 
-this model can help the user for the statistical study through the visualized environment.
+# Youtube_data_warehousing and analysis
+An application  for youtube data exploration
+to explore the statistical data the application will solve the following needs:
+retrival of youtube account data, exploring the insights 
+after performing the google api client techniques we will obtain the channels data , video data , statistics from snippet like 
+
+--channel id, name, established at, videos uploaded,
+subscribers info etc will be extracted from the youtube api then after performing the data processing we have saved the info
+ in Data Lake in mongodb data in the form of unstructured data 
+ to work with data we made connection with Sql for working the data frames. 
+ performed data analysis by pandas dataframes. 
+ developed an  used friendly streamlit application to explore the youtube account information. 
+"D:/youtube data harvesting/YouTube-Symbol.png"
