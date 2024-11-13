@@ -10,4 +10,6 @@ subscribers info etc will be extracted from the youtube api then after performin
  to work with data we made connection with Sql for working the data frames. 
  performed data analysis by pandas dataframes. 
  developed an  used friendly streamlit application to explore the youtube account information. 
-"D:/youtube data harvesting/YouTube-Symbol.png"
+
+
+![YouTube-Symbol](https://github.com/user-attachments/assets/02aa4cf6-e9b6-41c7-aadd-3034f8721724)
